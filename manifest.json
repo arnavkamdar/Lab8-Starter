@@ -2,7 +2,7 @@
     "name": "Lab8-starter",
     "short_name": "Arnav Kamdar",
     "description": "Manifest for PWA",
-    "start_url": "https://arnavkamdar.github.io/Lab8-Starter/",
+    "start_url": "http://127.0.0.1:5500/",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white",
